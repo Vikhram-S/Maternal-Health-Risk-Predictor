@@ -18,6 +18,7 @@ The Maternal Health Risk Predictor is a machine learning-based system designed t
 - Jupyter Notebook
 
 ## Project Structure
+```
 maternal_health_risk_predictor/
 ├── data/
 │ ├── raw_data.csv
@@ -32,3 +33,4 @@ maternal_health_risk_predictor/
 ├── requirements.txt
 ├── LICENSE
 └── setup.py
+```

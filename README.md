@@ -78,5 +78,5 @@ maternal_health_risk_predictor/
 This project is licensed under the MIT License - see the (LICENSE) file for details.
 
 ## Contact
-For any inquiries or support, please contact (mailto:vikhrams15gmail.com).
+For any inquiries or support, please contact (mailto:vikhrams@saveetha.ac.in).
 
